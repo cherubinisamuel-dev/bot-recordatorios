@@ -16,5 +16,5 @@ Un bot interactivo desarrollado en Python utilizando la API de Telegram para ges
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/cherubinisamuel-dev/bot-recordatorios.git](https://github.com/cherubinisamuel-dev/bot-recordatorios.git)
+   git clone [https://github.com/cherubinisamuel-dev/bot-recordatorios.git]
    cd bot-recordatorios
