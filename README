@@ -4,17 +4,28 @@ Un bot interactivo desarrollado en Python utilizando la API de Telegram para ges
 
 ## 🚀 Características
 * Gestión rápida de notas y recordatorios desde el chat.
-* Manejo de comandos interactivos.
+* Manejo de comandos interactivos y respuestas automáticas.
 * Estructura ligera y fácil de desplegar.
 
-## 🛠️ Tecnologías utilizadas
-* **Lenguaje:** Python 3
-* **Librería:** `pyTelegramBotAPI` (telebot)
-* **Entorno:** Termux / Pydroid 3 (Android)
+## 📋 Comandos Disponibles
 
-## 📦 Instalación y Uso
+| Comando | Descripción |
+| :--- | :--- |
+| `/start` | Inicia el bot y muestra el mensaje de bienvenida |
+| `/help` o `/ayuda` | Muestra la lista de comandos disponibles y su uso |
+| `/nota [texto]` | Guarda una nueva nota o recordatorio |
+| `/ver` | Muestra todas las notas guardadas |
+| `/borrar` | Elimina una nota específica |
+
+## 🛠️ Tecnologías Utilizadas
+* **Lenguaje:** Python 3
+* **Librería principal:** `pyTelegramBotAPI` (telebot)
+* **Entorno de desarrollo:** Termux / Pydroid 3 (Android)
+
+## 📦 Instalación y Configuración
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/cherubinisamuel-dev/bot-recordatorios.git]
+   git clone [https://github.com/cherubinisamuel-dev/bot-recordatorios.git](https://github.com/cherubinisamuel-dev/bot-recordatorios.git)
    cd bot-recordatorios
+
