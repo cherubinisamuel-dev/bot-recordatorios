@@ -1,0 +1,18 @@
+{
+    "huevos": {
+        "precio": "125 BS",
+        "stock": 50
+    },
+    "1k queso": {
+        "precio": "1280 BS",
+        "stock": 20
+    },
+    "desengrasante": {
+        "precio": "950 BS",
+        "stock": 25
+    },
+    "wasa": {
+        "precio": "12",
+        "stock": 10
+    }
+}
